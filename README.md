@@ -1,4 +1,4 @@
-# Electricity Plan Optimizer
+# Electricity Plan Optimizer (Ireland)
 
 When this tool can be useful:
 
